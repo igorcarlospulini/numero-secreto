@@ -1,5 +1,9 @@
 let listaDeNumerosSorteados = [];
+<<<<<<< HEAD
 let numeroLimite = 30;
+=======
+let numeroLimite = 100;
+>>>>>>> parent of 88310a5 (Terceiro Commit aula deixando jogo mais fácil)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
